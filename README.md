@@ -30,7 +30,7 @@
 1. Выберите платформу, на которой вы хотите выполнять дипломную работу и установите на девайс (девайсы) тестовое приложение.
    
 2. Скачайте выбранную вами сборку приложения (Android или iOS):
-- тестовая сборка Android ([apk-файл]());
+- тестовая сборка Android ([apk-файл](https://github.com/netology-code/shqa-diplom/releases));
 - тестовая сборка iOS ([ipa-файл](https://github.com/netology-code/shqa-diplom/blob/main/ipa/netology_ios_qa_b1698666915.ipa)) и [инструкция по установке](https://github.com/netology-code/shqa-diplom/blob/main/ipa/ipa-instruction.md).
 
 3. Изучите внимательно макеты тестового приложения  в [Figma](https://www.figma.com/file/t8utBtphc38VgQNnNg3olC/02-%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%5BKODE-old%5D-(Copy)?type=design&node-id=1-2&mode=design), посмотрите наглядные кликабельные [прототипы экранов](https://www.figma.com/proto/t8utBtphc38VgQNnNg3olC/02-%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%5BKODE-old%5D-(Copy)?type=design&node-id=2957-42492&t=KU6kNTlpAvP5TO0W-1&scaling=scale-down&page-id=2957%3A31579&starting-point-node-id=2957%3A41366&show-proto-sidebar=1).
