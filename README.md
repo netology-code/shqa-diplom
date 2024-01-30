@@ -222,5 +222,5 @@ Qase – это популярная TMS система, которая акти
 
 - В личном кабинете отправлена ссылка на Google Doc с выполненными заданиями;
 - В документе настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка»;
-- Решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1_YjWwRgCJDeU5_O3avXodL639UGcGWV2QGl8QfDKJtA/edit#gid=0);
-- Таблицы в решении отформатированы с переносами и правильной вёрсткой ([ссылка на пример оформления](https://docs.google.com/document/d/1tJ_qzdzo1tofD8L3Eo3MQe8VLaOgEGn_2fbN7IqR_5s/edit)).
+- Решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1oV4f_Zet1AjcQ-kKbyfc1Oehhqo1_zTPthMjGeuTf2Q/edit?usp=sharing);
+- Таблицы в решении отформатированы с переносами и правильной вёрсткой ([ссылка на пример оформления](https://docs.google.com/spreadsheets/d/1myrS0QoqlTPv_h0AcEy4xPbKJ5xDy-jVQSZKR7f5vtk/edit#gid=1683055701)).
