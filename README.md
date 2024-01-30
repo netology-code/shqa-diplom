@@ -13,7 +13,7 @@
   
 ## Инструкция к выполнению
 
-1. Сделайте копию [Шаблона дипломной работы](https://docs.google.com/spreadsheets/d/1_YjWwRgCJDeU5_O3avXodL639UGcGWV2QGl8QfDKJtA/edit#gid=0) на свой Google Disk. 
+1. Сделайте копию [Шаблона дипломной работы](https://docs.google.com/spreadsheets/d/1oV4f_Zet1AjcQ-kKbyfc1Oehhqo1_zTPthMjGeuTf2Q/edit?usp=sharing) на свой Google Disk. 
 2. В названии файла введите свои фамилию, имя и группу вместо Name, Surname, Group.
 3. Зайдите в “Настройки доступа” и выберите доступ “Просматривать могут все в Интернете, у кого есть ссылка”.
  Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
