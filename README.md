@@ -13,7 +13,7 @@
   
 ## Инструкция к выполнению
 
-1. Сделайте копию [Шаблона дипломной работы](https://u.netology.ru/backend/uploads/lms/content_assets/file/1328/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0._%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.xlsx) на свой Yandex Disk. 
+1. Сделайте копию [Шаблона дипломной работы](https://u.netology.ru/backend/uploads/lms/content_assets/file/1328/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0._%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.xlsx) на свой Google Disk. 
 2. В названии файла введите свои фамилию, имя и группу вместо Name, Surname, Group.
 3. Зайдите в “Настройки доступа” и выберите доступ “Просматривать могут все в Интернете, у кого есть ссылка”.
  Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
